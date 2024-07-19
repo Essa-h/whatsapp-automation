@@ -1,5 +1,5 @@
 # whatsapp-automation
-About
+
 This project automates and send whatsapp messages to your contacts.
 
 Pre-requisites
